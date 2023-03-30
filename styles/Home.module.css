@@ -15,7 +15,6 @@
 .title a:hover,
 .title a:focus,
 .title a:active {
-  text-decoration: underline;
 }
 
 .title {
@@ -32,7 +31,6 @@
 .description {
   text-align: center;
 }
-
 
 .description {
   line-height: 1.5;
